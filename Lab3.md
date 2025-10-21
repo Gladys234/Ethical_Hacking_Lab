@@ -1,3 +1,7 @@
+<img width="494" height="287" alt="Screenshot 2025-10-21 122816" src="https://github.com/user-attachments/assets/d8225a9d-0ac7-4224-bd3b-320e32476b73" />
+<img width="674" height="686" alt="Screenshot 2025-10-21 122759" src="https://github.com/user-attachments/assets/558511ae-f530-4fad-a3e8-6f714d74b446" />
+<img width="775" height="685" alt="Screenshot 2025-10-21 122739" src="https://github.com/user-attachments/assets/a6ac97cc-f934-41dc-9b7d-e8955a05759e" />
+<img width="728" height="693" alt="Screenshot 2025-10-21 122710" src="https://github.com/user-attachments/assets/106cdd83-7437-490a-aff1-18e2d05ff852" />
 GitHub.com WHOIS & DNS Summary
 | **Category** | **Details** |
 |---------------|-------------|
