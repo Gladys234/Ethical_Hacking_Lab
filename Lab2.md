@@ -1,4 +1,4 @@
-The three cyber attacks are;
+Some Major Cyber Attacks are;
 1) WannaCry Ransomware Attack (Unauthorized): The WannaCry attack was unauthorized because it exploited a Windows vulnerability without permission.
 Hackers encrypted users’ files and demanded ransom payments in Bitcoin, disrupting global systems.
 It was unethical as it caused widespread harm, data loss, and financial damage to innocent users and organizations.
@@ -13,10 +13,10 @@ It was sanctioned at the state level, meaning the actions were permitted under g
 
 
 Reports On The Ethical and Legal Implications; 
-**Ethical Implications: Unauthorized attacks like WannaCry and Yahoo breaches are unethical because they deliberately harm users, disrupt operations, and violate confidentiality.
+** Ethical Implications: Unauthorized attacks like WannaCry and Yahoo breaches are unethical because they deliberately harm users, disrupt operations, and violate confidentiality.
 They exploit weaknesses for personal or political gain, undermining digital trust. Conversely, ethical hacking such as in Operation Aurora promotes integrity, responsibility.
 It also provides public safety by identifying vulnerabilities before malicious actors can exploit them.
 
-**Legal Implications: Unauthorized hacking breaches national and international laws, including the Computer Misuse Act, CFAA (Computer Fraud and Abuse Act), and GDPR.
+** Legal Implications: Unauthorized hacking breaches national and international laws, including the Computer Misuse Act, CFAA (Computer Fraud and Abuse Act), and GDPR.
 Offenders face criminal charges, heavy fines, and imprisonment.
 Authorized ethical hacking operates under written consent and legal contracts, ensuring compliance with laws and protecting both the organization and the security professionals involved.
