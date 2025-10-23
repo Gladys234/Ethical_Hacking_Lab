@@ -13,6 +13,14 @@
 
 ---
 
+## 🌐 Overview
+
+In today’s interconnected digital world, **cyber attacks** have become one of the most significant threats to individuals, organizations, and even nations.  
+They can be **authorized** (ethical and government-approved) or **unauthorized** (illegal and malicious).  
+Below are three major case studies that highlight both types, analyzing their **ethical justification** and **legal implications**.
+
+---
+
 ## 🧨 1. WannaCry Ransomware Attack (Unauthorized)
 **Description:**  
 The WannaCry ransomware attack exploited a Windows vulnerability without permission. Hackers encrypted users’ files and demanded ransom payments in Bitcoin, disrupting global systems.  
